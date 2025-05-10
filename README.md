@@ -1,8 +1,4 @@
-Great! Below is a fully detailed **README.md** file for your GitHub project titled `Dancing-Leds-with-ESP32`. It explains the concept, hardware setup, code (Python + ESP32), and how everything works — **line-by-line** and **conceptually**, so that any visitor (or future you) can understand and replicate it.
-
----
-
-## 📂 `README.md` — Dancing LEDs with ESP32 (Music Reactive)
+Dancing LEDs with ESP32 (Music Reactive)
 
 ````markdown
 # 🎵 Dancing LEDs with ESP32 (Music Reactive)
